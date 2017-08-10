@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "708925550112",
+    "firebase_url": "https://schoolwork-923dc.firebaseio.com",
+    "project_id": "schoolwork-923dc",
+    "storage_bucket": "schoolwork-923dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708925550112:android:0fa65628e8278b2c",
+        "android_client_info": {
+          "package_name": "com.example.jerald.p12_mydatabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708925550112-qqed93goa6eho3sctohq5liuafb7gput.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jerald.p12_mydatabook",
+            "certificate_hash": "4f6fb1913910e1ab04c1437142df7939352319ad"
+          }
+        },
+        {
+          "client_id": "708925550112-ddqnqt11q4755vh21mn15s4cc8425dpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnjZgHN5HPrQdRyke51B8OS0xF9i6gmnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708925550112-ddqnqt11q4755vh21mn15s4cc8425dpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
